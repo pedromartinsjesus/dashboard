@@ -31,7 +31,8 @@ function Dashboard() {
         </Grid>
         <Grid container className={classes.main}>
           {/*  <Grid item xs={12}>
-            <h1 style={{ color: 'black' }}>Main Content!</h1>
+            <h1 style={{ color: 'black' }}>Main Content! Good
+        </h1>
           </Grid> */}
         </Grid>
         <Grid container>
